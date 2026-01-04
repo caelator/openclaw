@@ -30,6 +30,7 @@
 - Sessions: prevent `sessions_send` timeouts by running nested agent turns on a separate lane.
 - Sessions: use per-send run IDs for gateway agent calls to avoid wait collisions.
 - Auto-reply: drop final payloads when block streaming to avoid duplicate Discord sends.
+- Auto-reply: default elevated to off when not allowed (#183) — thanks @cash-echo-bot.
 - Auto-reply: fix typing TTL to 2 minutes and log TTL with s/m units.
 - Bash tool: default auto-background delay to 10s.
 - Telegram: chunk block-stream replies to avoid “message is too long” errors (#124) — thanks @mukhtharcm.
