@@ -12,6 +12,7 @@ const ROOT_COMMANDS_WITH_SUBCOMMANDS = new Set([
   "approvals",
   "browser",
   "channels",
+  "clawbot",
   "config",
   "cron",
   "daemon",
