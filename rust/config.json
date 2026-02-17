@@ -1,0 +1,9 @@
+{
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "botToken": "123456789:ABCDefGhIJKlmNoPQRstUvWxYz",
+      "allowFrom": ["12345678"]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/xx/openclaw/rust/target/debug/deps/eventsource_stream-abc8914d47c8834e.d: /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/lib.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event_stream.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/parser.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/traits.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/Users/xx/openclaw/rust/target/debug/deps/libeventsource_stream-abc8914d47c8834e.rmeta: /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/lib.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event_stream.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/parser.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/traits.rs /Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/lib.rs:
+/Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event.rs:
+/Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/event_stream.rs:
+/Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/parser.rs:
+/Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/traits.rs:
+/Users/xx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eventsource-stream-0.2.3/src/utf8_stream.rs:

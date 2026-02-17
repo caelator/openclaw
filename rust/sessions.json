@@ -1,0 +1,20 @@
+{
+  "f93154c1-336b-45c9-b335-83c06988a08e": {
+    "sessionId": "f93154c1-336b-45c9-b335-83c06988a08e",
+    "updatedAt": 1771289500421,
+    "chatType": "direct",
+    "channel": "websocket",
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "totalTokens": 0
+  },
+  "test-client": {
+    "sessionId": "8b3b080f-7c3a-4323-a803-c5150db3b4f9",
+    "updatedAt": 1771289544620,
+    "chatType": "direct",
+    "channel": "websocket",
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "totalTokens": 0
+  }
+}

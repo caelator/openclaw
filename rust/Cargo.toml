@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "common",
+    "gateway",
+    "channels/telegram",
+    "channels/discord",
+    "channels/whatsapp",
+    "agent",
+]
