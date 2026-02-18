@@ -1,0 +1,62 @@
+[package]
+name = "keyvault"
+version = "0.1.0"
+edition = "2021"
+description = "Hegemon KeyVault — Secure AI API key pool and intelligent routing daemon"
+license = "Apache-2.0"
+
+[[bin]]
+name = "keyvault"
+path = "src/main.rs"
+
+[dependencies]
+# Async runtime
+tokio = { version = "1", features = ["full"] }
+
+# HTTP client for provider API calls
+reqwest = { version = "0.12", features = ["json", "rustls-tls"], default-features = false }
+
+# Serialization
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+serde_yaml = "0.9"
+
+# Database
+rusqlite = { version = "0.31", features = ["bundled"] }
+
+# Cryptography
+aes-gcm = "0.10"
+argon2 = "0.5"
+rand = "0.8"
+hmac = "0.12"
+sha2 = "0.10"
+base64 = "0.22"
+zeroize = { version = "1", features = ["derive"] }
+hex = "0.4"
+
+# macOS Keychain
+security-framework = "2"
+
+# Logging
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["json", "env-filter"] }
+
+# Error handling
+anyhow = "1"
+thiserror = "1"
+async-trait = "0.1"
+
+# Time
+chrono = { version = "0.4", features = ["serde"] }
+
+# UUID
+uuid = { version = "1", features = ["v4"] }
+
+# Config
+dirs = "5"
+
+# HTTP headers
+http = "1"
+
+[dev-dependencies]
+tempfile = "3"

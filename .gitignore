@@ -86,3 +86,9 @@ USER.md
 !.agent/workflows/
 /local/
 package-lock.json
+
+# KeyVault build artifacts
+keyvault/target/
+keyvault-package/bin/
+keyvault-orchestrator-*.tar.gz
+keyvault-orchestrator-*.zip
